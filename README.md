@@ -12,12 +12,8 @@ List the file names associated with the data files you added to your .gitignore
 
 
 
-## Instructions
 
 
 
-## Creators
 
-
-With the help of:
 
